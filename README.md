@@ -2,7 +2,7 @@
 
 Esse projeto se trata de uma API REST muito simples coma apenas uma rota. O intuito é fornecer alguns dados para um App em desenvolvimento.
 
-O App em questão é o [Podcastr](https://www.rocketseat.com.br), um app de Podcasts que pode ser utilizado em qualquer cenário onde seja necessário ter um app próprio para distribuir ao seu público os seus Podcasts.
+O App em questão é o [Podcastr](https://github.com/adairjuneoaf/prisma-cast), um app de Podcasts que pode ser utilizado em qualquer cenário onde seja necessário ter um app próprio para distribuir ao seu público os seus Podcasts.
 Este é um projeto desenvolvido como parte da evolução de uma semana de estudos com a **[Rocketseat](https://www.rocketseat.com.br)**.
 
 ## 🧪 Tecnologias
